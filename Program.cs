@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         // Variables to keep track of lizard sizes and count
-        int lizardCount = 0;
+        int lizardCount = 0; 
         double lizardSum = 0.0;
 
         // Prompt user to enter lizard sizes until -1 is entered
